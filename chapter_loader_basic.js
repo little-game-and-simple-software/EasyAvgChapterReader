@@ -1,6 +1,7 @@
-//基础剧情加载器单元
+//基础剧情加载器单元 
 var txt_1="第一句 \n 第二句\n >2_txt"
 var txt_2="第二段 \n 你好啊\n 我的朋友"
+
 function load(str)
 {
  var 剧情分词= str.split("\n")
